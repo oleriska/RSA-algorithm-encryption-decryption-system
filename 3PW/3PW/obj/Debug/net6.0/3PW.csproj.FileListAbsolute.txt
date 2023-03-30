@@ -1,0 +1,15 @@
+C:\_Study\ViKo\00_Information Security\3PW\3PW\bin\Debug\net6.0\3PW.exe
+C:\_Study\ViKo\00_Information Security\3PW\3PW\bin\Debug\net6.0\3PW.deps.json
+C:\_Study\ViKo\00_Information Security\3PW\3PW\bin\Debug\net6.0\3PW.runtimeconfig.json
+C:\_Study\ViKo\00_Information Security\3PW\3PW\bin\Debug\net6.0\3PW.dll
+C:\_Study\ViKo\00_Information Security\3PW\3PW\bin\Debug\net6.0\3PW.pdb
+C:\_Study\ViKo\00_Information Security\3PW\3PW\obj\Debug\net6.0\3PW.csproj.AssemblyReference.cache
+C:\_Study\ViKo\00_Information Security\3PW\3PW\obj\Debug\net6.0\3PW.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Study\ViKo\00_Information Security\3PW\3PW\obj\Debug\net6.0\3PW.AssemblyInfoInputs.cache
+C:\_Study\ViKo\00_Information Security\3PW\3PW\obj\Debug\net6.0\3PW.AssemblyInfo.cs
+C:\_Study\ViKo\00_Information Security\3PW\3PW\obj\Debug\net6.0\3PW.csproj.CoreCompileInputs.cache
+C:\_Study\ViKo\00_Information Security\3PW\3PW\obj\Debug\net6.0\3PW.dll
+C:\_Study\ViKo\00_Information Security\3PW\3PW\obj\Debug\net6.0\refint\3PW.dll
+C:\_Study\ViKo\00_Information Security\3PW\3PW\obj\Debug\net6.0\3PW.pdb
+C:\_Study\ViKo\00_Information Security\3PW\3PW\obj\Debug\net6.0\3PW.genruntimeconfig.cache
+C:\_Study\ViKo\00_Information Security\3PW\3PW\obj\Debug\net6.0\ref\3PW.dll
